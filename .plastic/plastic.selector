@@ -1,0 +1,4 @@
+repository "Touhou3D@Utsuhoagie@cloud"
+  path "/"
+    br "/main"
+    co "/main"
